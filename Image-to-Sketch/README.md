@@ -1,0 +1,4 @@
+Exploring various options in the openCV module of Python, we have used one of its most used applications- manipulating images.
+In this project, we've seen conversion to black-white, introducing Gaussian Blur, detecting edges of the image, turning the image to final sketch. Adiitionally, I've also cartoonised the image
+
+Original Image:
